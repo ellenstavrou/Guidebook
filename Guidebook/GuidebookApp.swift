@@ -7,8 +7,6 @@
 
 import SwiftUI
 
-// upload to github
-
 @main
 struct GuidebookApp: App {
     var body: some Scene {
